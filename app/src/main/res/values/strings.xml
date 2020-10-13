@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ChatProjectFireReal</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="Registration">Registration</string>
+    <string name="ok">ok</string>
+    <string name="registered_successfully">user registerd successfully</string>
+    <string name="success">success</string>
+    <string name="loading">loading</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="error">error</string>
+    <string name="room_added_successfully">room added successfully</string>
+    <string name="title_activity_chat_room">ChatRoom</string>
+    <string name="invalidData">Invalid Data</string>
+    <string name="invalidEmail">Invalid Email</string>
+    <string name="passwordError">Password should minimum 6 characters</string>
+    <string name="email_registerd_before">Email is registered before</string>
+    <string name="required">required</string>
+    <string name="login">login</string>
+    <string name="register">Register</string>
+    <string name="don_t_have_account">Don\'t have account ?</string>
+    <string name="have_account">Have Account ?</string>
+    <string name="invalide_email_or_password">invalid email or password</string>
+    <string name="email">Email</string>
+    <string name="memories">Memories</string>
+</resources>
